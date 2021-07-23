@@ -1,4 +1,5 @@
 # SLR vs LALR
+Arthur Almeida Vianna - mat. 117031049
 
 Trabalho da disciplina Compiladores 2021.1
 
